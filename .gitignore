@@ -1,0 +1,2 @@
+# Ignore newly generated builds; existing tracked dependencies are retained.
+build/
